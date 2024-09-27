@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3",
+    "socket.io": "^4.8.0"
+  },
+  "name": "avatar-screen-share-app",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorkDev/avatar-screen-share-app.git"
+  },
+  "author": "JorkDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorkDev/avatar-screen-share-app/issues"
+  },
+  "homepage": "https://github.com/JorkDev/avatar-screen-share-app#readme"
+}
